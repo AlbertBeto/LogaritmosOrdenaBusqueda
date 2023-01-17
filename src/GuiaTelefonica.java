@@ -15,15 +15,19 @@ public class GuiaTelefonica {
         
     }
 
-
+/*
     public int busqueda(String nombre) {
 
 String buscador;
         for (int i=0;i< teleguia.length;i++) {
             buscador=teleguia[i];
-            if (nombre == "uno"+(.getNombre()) )
+            if (nombre == buscador.getNombre() ){
+
+            }
 
         }
         return 1;
     }
+    */
+
 }

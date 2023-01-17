@@ -13,7 +13,7 @@ public class Main {
         //No sé pq no entra en el BinarySearch
 BinarySearch.BinarySearch(meme,8,0, meme.length-1);
 
-
+        int[][] myArray = {{8,1,2,2,9}, {1,9,4,0,3}, {0,3,0,0,7}};
 
 
 System.out.println("merda");
