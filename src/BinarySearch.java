@@ -10,7 +10,7 @@ while(salida==false) {
     int mid= (low+high)/2;
     if (array[mid] == key) {
         salida = true;
-        System.out.println("Se ha encontrado el valor buscado en la posición " + mid + " del array.");
+        System.out.println("Se ha encontrado el valor "+key+" en la posición " + mid + " del array.");
     } else if (low==mid || high==mid) {
         salida=true;
         System.out.println("No se ha encontrado el valor dentro del array");

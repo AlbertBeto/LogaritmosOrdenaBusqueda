@@ -11,7 +11,7 @@ public class Main {
 //BinarySearch.BinarySearch(meme,8,0, meme.length-1);
 
         //No sé pq no entra en el BinarySearch
-BinarySearch.BinarySearch(meme,10,0, meme.length-1);
+BinarySearch.BinarySearch(meme,1,0, meme.length);
 
         int[][] myArray = {{8,1,2,2,9}, {1,9,4,0,3}, {0,3,0,0,7}};
 
