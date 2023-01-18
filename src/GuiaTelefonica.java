@@ -12,7 +12,7 @@ public class GuiaTelefonica {
         teleguia[2] = "tres";
         teleguia[3] = "cuatro";
         teleguia[4] = "cinco";
-        
+
     }
 
 /*
