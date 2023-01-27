@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4fae2b84-88cf-4e33-95bc-a02422db5bfa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayMultidimensional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayMultidimensional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GuiaTelefonica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GuiaTelefonica.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GuiaTelefonica">
+    <configuration name="GuiaTelefonica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuiaTelefonica" />
+      <module name="LogaritOrdenaAndBusq" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LogaritOrdenaAndBusq" />
@@ -49,6 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GuiaTelefonica" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -90,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674060360133</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Trabajando en la guia telefonica">
+      <created>1674777715346</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674777715346</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -98,6 +112,7 @@
     <MESSAGE value="cambios en guia telefonica" />
     <MESSAGE value="Solucionado el BinarySearch" />
     <MESSAGE value="Solucionado el BinarySearch DE VERDAD Q SI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solucionado el BinarySearch DE VERDAD Q SI" />
+    <MESSAGE value="Trabajando en la guia telefonica" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabajando en la guia telefonica" />
   </component>
 </project>
