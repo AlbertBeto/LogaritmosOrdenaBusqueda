@@ -5,29 +5,29 @@ public class GuiaTelefonica {
     EntradaTelefono tres = new EntradaTelefono("Mai", 656222222);
     EntradaTelefono cuatro = new EntradaTelefono("Mo", 656555555);
     EntradaTelefono cinco = new EntradaTelefono("Bro", 656666666);
+    teleguia[0] = uno;
+    teleguia[1] = dos;
+    teleguia[2] = tres;
+    teleguia[3] = cuatro;
+    teleguia[4] = cinco;
+    public  void guiaTelefonica() {
 
-    public void guiaTelefonica() {
-        teleguia[0] = "uno";
-        teleguia[1] = "dos";
-        teleguia[2] = "tres";
-        teleguia[3] = "cuatro";
-        teleguia[4] = "cinco";
 
     }
 
-/*
+
     public int busqueda(String nombre) {
 
 String buscador;
         for (int i=0;i< teleguia.length;i++) {
             buscador=teleguia[i];
-            if (nombre == buscador.getNombre() ){
+            if (nombre == teleguia[i].getNombre() ){
 
             }
 
         }
         return 1;
     }
-    */
+
 
 }
