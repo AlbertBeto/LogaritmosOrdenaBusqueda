@@ -4,9 +4,9 @@ public class MainGuiaTelefonica {
 
        GuiaTelefonica sistemaOperativo= new GuiaTelefonica();
 
-        sistemaOperativo.busqueda("Robert", sistemaOperativo.teleguia);
-
+        sistemaOperativo.busqueda("Patricia Marti", sistemaOperativo.teleguia);
+        sistemaOperativo.busqueda("Albert", sistemaOperativo.teleguia);
 
     }
-
+    //class
 }

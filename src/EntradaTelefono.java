@@ -15,4 +15,5 @@ public class EntradaTelefono {
     public String getNombre() {
         return nombre;
     }
+//class
 }

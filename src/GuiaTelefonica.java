@@ -11,16 +11,6 @@ public GuiaTelefonica(){
     teleguia[4] = new EntradaTelefono("Albert", 656666666);
     }
 
-
-
-/*
-        for(int i=0;i< teleguia.length;i++){
-
-                    System.out.println(teleguia[i].getNombre()+" "+teleguia[i].getNumero());
-                          System.out.println();
-        }
-  */
-
     public void busqueda(String nombre, EntradaTelefono[] array) {
 
         String buscador=nombre;
@@ -37,6 +27,5 @@ public GuiaTelefonica(){
         }
 
     }
-
-
+//class
 }
