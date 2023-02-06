@@ -7,6 +7,9 @@ public class MainGuiaTelefonica {
         sistemaOperativo.busqueda("Patricia Marti", sistemaOperativo.teleguia);
         sistemaOperativo.busqueda("Albert", sistemaOperativo.teleguia);
 
+        sistemaOperativo.busquedaBinaria("Albert", sistemaOperativo.teleguia);
+
+
     }
     //class
 }

@@ -25,7 +25,26 @@ public GuiaTelefonica(){
         if (siEsta==0){
             System.out.println("Lo siento, el nombre no está en la agenda");
         }
+    }
+
+    public void busquedaBinaria(String nombre, EntradaTelefono[]array){
+
+    //Por acabar
+
+
+    int longitudNombre;
+
+
+    longitudNombre=nombre.length();
+
+    for (int i=0;i<array.length;i++){
+        System.out.println(array[i].getNombre());
+    }
+
 
     }
+
+
+
 //class
 }

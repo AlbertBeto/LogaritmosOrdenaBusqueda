@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fae2b84-88cf-4e33-95bc-a02422db5bfa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GuiaTelefonica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GuiaTelefonica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainGuiaTelefonica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainGuiaTelefonica.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,8 +128,26 @@
       <option name="project" value="LOCAL" />
       <updated>1675643365189</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Modificaciones menores de GuiaTelefonica">
+      <created>1675643687847</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675643687847</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Todos los ejercicios" />
@@ -137,6 +157,18 @@
     <MESSAGE value="Trabajando en la guia telefonica" />
     <MESSAGE value="Guia solucionada pero en MAin" />
     <MESSAGE value="Solucionado el GuiaTelefonica" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solucionado el GuiaTelefonica" />
+    <MESSAGE value="Modificaciones menores de GuiaTelefonica" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificaciones menores de GuiaTelefonica" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GuiaTelefonica.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
