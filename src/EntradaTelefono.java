@@ -1,7 +1,7 @@
 public class EntradaTelefono {
 
-    private String nombre;
-    private int numero;
+    protected String nombre;
+    protected int numero;
 
     public EntradaTelefono(String nombre, int numero){
         this.nombre=nombre;

@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fae2b84-88cf-4e33-95bc-a02422db5bfa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MainGuiaTelefonica.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EntradaTelefono.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EntradaTelefono.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GuiaTelefonica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GuiaTelefonica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +38,11 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;B:/Cerbell/GSDAW/ENTORNOSDESARROLLO/Rombo&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GuiaTelefonica">
+  <component name="RunManager" selected="Application.MainGuiaTelefonica">
     <configuration name="GuiaTelefonica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GuiaTelefonica" />
       <module name="LogaritOrdenaAndBusq" />
@@ -53,8 +57,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainGuiaTelefonica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainGuiaTelefonica" />
+      <module name="LogaritOrdenaAndBusq" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainGuiaTelefonica" />
         <item itemvalue="Application.GuiaTelefonica" />
         <item itemvalue="Application.Main" />
       </list>
@@ -104,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674777715346</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Guia solucionada pero en MAin">
+      <created>1674780994890</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674780994890</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,6 +132,7 @@
     <MESSAGE value="Solucionado el BinarySearch" />
     <MESSAGE value="Solucionado el BinarySearch DE VERDAD Q SI" />
     <MESSAGE value="Trabajando en la guia telefonica" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trabajando en la guia telefonica" />
+    <MESSAGE value="Guia solucionada pero en MAin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Guia solucionada pero en MAin" />
   </component>
 </project>
